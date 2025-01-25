@@ -1,4 +1,4 @@
-<h1 align="center"> 💻 <strong>My very own first wweb page</strong> </h1>
+<h1 align="center"> 💻 <strong>My very own first web page</strong> </h1>
 
 ## 🏷️ **About the project**
 The first real web page I did to train my HTML and CSS skills.
