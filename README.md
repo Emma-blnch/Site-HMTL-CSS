@@ -10,8 +10,8 @@ With this project, I developed my:
 - [ ] Patience
 
 ## ⚙️ **Technical skills I acquired**
-- [x] HTML
-- [x] CSS
+- [x] HTML5
+- [x] CSS3
 
 ## ✨ **Features**
 - Responsive Layout
