@@ -13,4 +13,5 @@ With this project, I developed my:
 - [x] HTML
 - [x] CSS
 
+## **What it looks like :**
 ![website](https://github.com/user-attachments/assets/c5e11c6d-015b-41aa-8760-d7c2b1358686)
