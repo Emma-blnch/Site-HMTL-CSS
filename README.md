@@ -12,3 +12,5 @@ With this project, I developed my:
 ## ⚙️ **Technical skills I acquired**
 - [x] HTML
 - [x] CSS
+
+![website](http://url/to/img.png)
